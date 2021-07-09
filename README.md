@@ -1,4 +1,4 @@
-![intellimart](https://socialify.git.ci/prakharrathi25/intellimart/image?description=1&descriptionEditable=Intellimart%3A%20A%20Smart%20shopping%20system%20during%20the%20pandemic.&forks=1&issues=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
+![intellimart](https://socialify.git.ci/kirtiksingh/IntelliMart/image?description=1&pattern=Brick%20Wall&theme=Dark)
 
 
 
