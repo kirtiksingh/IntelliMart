@@ -1,5 +1,4 @@
-![intellimart](https://socialify.git.ci/kirtiksingh/IntelliMart/image?description=1&pattern=Brick%20Wall&theme=Dark)
-
+![IntelliMart](https://socialify.git.ci/prakharbhasin/IntelliMart/image?description=1&descriptionEditable=A%20Smart%20Shopping%20System%20for%20the%20Pandemic.&font=Raleway&logo=https%3A%2F%2Fi.ibb.co%2F2qCcQkm%2Fandroid-chrome-512x512.png&theme=Dark)
 
 
 
@@ -82,8 +81,9 @@ We have discussed the benefits for the consumers in the previous segment.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/u/38958532?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Prakhar Rathi</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/prkhrbhsn"><img src="https://avatars.githubusercontent.com/u/61727284?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Prakhar Bhasin</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/prkhrbhsn"><img src="https://avatars.githubusercontent.com/u/61727284?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Prakhar Bhasin</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kirtiksingh"><img src="https://avatars.githubusercontent.com/u/42700919?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Kirtik Singh</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/prakharrathi25"><img src="https://avatars.githubusercontent.com/u/38958532?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Prakhar Rathi</b></sub></a><br /></td>
+    
   </tr>
 </table>
