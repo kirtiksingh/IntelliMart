@@ -38,7 +38,7 @@ const Stores = () => {
               address={stores.address}
               image={stores.logo}
               id={stores.id}
-              index={index}
+              key={index}
             />
             // </div>
           ))
