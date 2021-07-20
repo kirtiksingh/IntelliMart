@@ -17,7 +17,7 @@ const StoreInfo = () => {
     axios(config)
       .then(function (response) {
         setStores(response.data[0]);
-        console.log(response.data);
+        // console.log(response.data);
       })
       .catch(function (error) {
         console.log(error);

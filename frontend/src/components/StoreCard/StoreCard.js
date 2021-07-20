@@ -7,7 +7,7 @@ const StoreCard = ({ title, address, image, id }) => {
 
   const toggleModal = () => {
     setShowModal(!showModal);
-    console.log(showModal);
+    // console.log(showModal);
   };
 
   return (

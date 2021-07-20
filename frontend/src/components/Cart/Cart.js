@@ -105,11 +105,11 @@ const Cart = () => {
 
       axios(config)
         .then(function (response) {
-          console.log(JSON.stringify(response.data));
+          // console.log(JSON.stringify(response.data));
         })
         .catch(function (error) {
-          console.log(error);
-          console.log(error.response.data.error);
+          // console.log(error);
+          // console.log(error.response.data.error);
           toast.error(
             "Quantity of " + item.name + " added is more than amount available"
           );
@@ -300,7 +300,7 @@ const Cart = () => {
                       id='1'
                       value='1'
                       onChange={(e) => {
-                        console.log(e.target.value);
+                        // console.log(e.target.value);
                       }}
                       required
                     />
@@ -312,7 +312,7 @@ const Cart = () => {
                       value='2'
                       required
                       onChange={(e) => {
-                        console.log(e.target.value);
+                        // console.log(e.target.value);
                       }}
                     />
                     <label htmlFor='2' data-debt-amount='2-4 PM'></label>
@@ -323,7 +323,7 @@ const Cart = () => {
                       value='3'
                       required
                       onChange={(e) => {
-                        console.log(e.target.value);
+                        // console.log(e.target.value);
                       }}
                     />
                     <label htmlFor='3' data-debt-amount='4-6 PM'></label>
@@ -334,7 +334,7 @@ const Cart = () => {
                       value='4'
                       required
                       onChange={(e) => {
-                        console.log(e.target.value);
+                        // console.log(e.target.value);
                       }}
                     />
                     <label htmlFor='4' data-debt-amount='6-8 PM'></label>
@@ -345,7 +345,7 @@ const Cart = () => {
                       value='5'
                       required
                       onChange={(e) => {
-                        console.log(e.target.value);
+                        // console.log(e.target.value);
                       }}
                     />
                     <label htmlFor='5' data-debt-amount='8-10 PM'></label>
