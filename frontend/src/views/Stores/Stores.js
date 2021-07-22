@@ -8,7 +8,7 @@ const Stores = () => {
   const [responseData, setResponseData] = useState(null);
 
   const getStores = () => {
-    console.log(process.env.REACT_APP_API_URL);
+    // console.log(process.env.REACT_APP_API_URL);
     var config = {
       method: "get",
       url: `${process.env.REACT_APP_API_URL}/market`,
@@ -16,7 +16,7 @@ const Stores = () => {
     axios(config)
       .then(function (response) {
         setResponseData(response.data);
-        console.log(response.data[0].id);
+        // console.log(response.data[0].id);
       })
       .catch(function (error) {
         console.log(error);
@@ -38,6 +38,7 @@ const Stores = () => {
               address={stores.address}
               image={stores.logo}
               id={stores.id}
+              key={index}
             />
             // </div>
           ))

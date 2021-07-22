@@ -15,7 +15,7 @@ const Contact = () => {
         <iframe
           title='about'
           src='https://covidhelp.typeform.com/to/yumxab'
-          class='sm:rounded-lg absolute inset-0 w-full h-full'
+          className='sm:rounded-lg absolute inset-0 w-full h-full'
           frameBorder='0'
         ></iframe>
       </div>

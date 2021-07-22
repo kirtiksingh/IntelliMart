@@ -2,17 +2,17 @@ import React, { useState } from "react";
 import "./StoreCard.css";
 import { Link } from "react-router-dom";
 
-const StoreCard = ({ title, address, image, id }) => {
+const StoreCard = ({ title, address, image, id, index }) => {
   const [showModal, setShowModal] = useState(false);
 
   const toggleModal = () => {
     setShowModal(!showModal);
-    console.log(showModal);
+    // console.log(showModal);
   };
 
   return (
     <>
-      <div className='store-card-container' onClick={() => toggleModal()}>
+      <div key={index} className='store-card-container' onClick={() => toggleModal()}>
         <Link to={`/store/${id}`}>
           <div className='store-title-details'>
             <img

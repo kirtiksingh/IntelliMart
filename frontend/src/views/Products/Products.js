@@ -23,7 +23,7 @@ const Products = ({ storeID, storeName }) => {
     axios(config)
       .then(function (response) {
         setResponseData(response.data);
-        console.log(response.data);
+        // console.log(response.data);
       })
       .catch(function (error) {
         console.log(error);
